@@ -6,11 +6,17 @@ Powershell collection of classes for testing/utilizing Secret Server REST API.
 # Examples
 
 # Documentation
+It is important to note that this repo contains collection of PowerShell classes and each class can be used independently. This is the list of the classes that are currently available:
+
+| CLASS | FILENAME | METHODS |
+|-------|----------|---------|
+| FolderManager | FolderManager.ps1 | GetToken, AddFolderStructure |
+
 
 # Roadmap
 
 
-
+# Disclaimer
 The Thycotic PowerShell API Classes Repository is a repository of classes that have been created by internal Triveti support engineers. As such:
 - The classes may be changed to match your environment.
 - The classes have been minimally tested for quality assurance and are offered as is with no warranty.
