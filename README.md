@@ -10,7 +10,10 @@ It is important to note that this repo contains collection of PowerShell classes
 
 | CLASS | FILENAME | METHODS |
 |-------|----------|---------|
-| FolderManager | FolderManager.ps1 | GetToken, AddFolderStructure |
+| FolderManager | FolderManager.ps1 | GetToken, AddFolder, AddChildFolder, SetFolderPermissions |
+| ConfigurationManager | ConfigurationManager.ps1 | GetToken, RunBackup |
+| SecretManager | SecretManager.ps1 | GetToken, ListAllSecrets |
+
 
 
 # Roadmap
